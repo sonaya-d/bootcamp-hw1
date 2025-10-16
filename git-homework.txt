@@ -1,0 +1,1 @@
+Question 1: The difference between Git and GitHub is that Git is a version control system that works locally while GitHub stores Git repositories and allows multiple people to work on the same code base
